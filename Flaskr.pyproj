@@ -23,6 +23,8 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="app.py" />
+    <Compile Include="database_setup.py" />
+    <Compile Include="populate.py" />
   </ItemGroup>
   <ItemGroup>
     <Interpreter Include="env\">
